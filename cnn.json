@@ -1,0 +1,20 @@
+{
+  "activation": "leaky_relu",
+  "filters1": 8,
+  "size1": 7,
+  "stride1": 2,
+  "avg1": true,
+  "hidden1": false,
+  "filters2": 5,
+  "size2": 7,
+  "stride2": 4,
+  "avg2": true,
+  "hidden2": true,
+  "filters3": 6,
+  "size3": 7,
+  "stride3": 2,
+  "avg3": false,
+  "dense": true,
+  "act_dense": "leaky_relu",
+  "units": 60
+}

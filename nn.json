@@ -1,0 +1,14 @@
+{
+  "activation": "relu",
+  "dropout": true,
+  "dropoutRate1": 0.2,
+  "units1": 220,
+  "dropout2": true,
+  "dropoutRate2": 0.2,
+  "layer2": true,
+  "units2": 70,
+  "dropout3": true,
+  "dropoutRate3": 0.1,
+  "layer3": true,
+  "units3": 50
+}
