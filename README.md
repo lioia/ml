@@ -15,7 +15,6 @@ jupyter lab
 - Custom Neural Network:
   - Test Loss: 0.33
   - Test Accuracy: 0.90
-    <!-- TODO: -->
-    <!-- - Custom Convolutional Neural Network: -->
-    <!--   - Test Loss: -->
-    <!--   - Test Accuracy: -->
+- Custom Convolutional Neural Network:
+  - Test Loss: 0.28
+  - Test Accuracy: 0.91
